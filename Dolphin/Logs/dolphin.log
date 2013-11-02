@@ -1,2 +1,4 @@
 46:37:955 /Users/dolphin/dolphin-emu/Source/Core/DiscIO/Src/NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening /Users/lrosenba/Library/Application Support/Dolphin/Wii/title/00000001/00000002/content/title.tmd
 46:37:997 /Users/dolphin/dolphin-emu/Source/Core/DiscIO/Src/NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening /Users/lrosenba/Library/Application Support/Dolphin/Wii/title/00000001/00000002/content/title.tmd
+58:36:781 /Users/dolphin/dolphin-emu/Source/Core/DiscIO/Src/NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening /Users/lrosenba/Library/Application Support/Dolphin/Wii/title/00000001/00000002/content/title.tmd
+58:36:807 /Users/dolphin/dolphin-emu/Source/Core/DiscIO/Src/NANDContentLoader.cpp:217 W[DIO]: CreateFromDirectory: error opening /Users/lrosenba/Library/Application Support/Dolphin/Wii/title/00000001/00000002/content/title.tmd
